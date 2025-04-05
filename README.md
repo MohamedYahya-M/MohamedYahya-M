@@ -1,15 +1,15 @@
 <h1>Welcome to My GitHub Profile!</h1>
 <h2>About Me</h2>
-Hi there! I'm Mohamed Yahya M, a recent Computer Science graduate with a passion for game development. I’m currently on a journey to dive deep into the gaming industry, learning as much as I can while honing my skills.
+Hi there! I'm Mohamed Yahya M, a recent Computer Science graduate with a strong interest in DevOps and game development. I have a solid foundation in Linux administration, Docker containerization, cloud computing with AWS, automation using Ansible, continuous integration with Jenkins, and scripting in Python and shell. I'm enthusiastic about leveraging these skills to optimize development and deployment workflows.
 
 <h2>My Work</h2>
-I've created several basic 2D and 3D games as part of my learning process. Each project has taught me something new about game design, development, and the challenges of bringing an idea to life.
+I've been actively involved in deploying scalable applications on AWS, managing Dockerized environments, and automating infrastructure provisioning with Ansible. I've also contributed to CI/CD pipelines using Jenkins, ensuring seamless integration and delivery of software projects.
 
 <h2>What I’m Learning</h2>
-I’m currently exploring different aspects of the gaming industry, from the technicalities of game engines to the creative processes behind successful games. My goal is to become a well-rounded game developer, capable of creating immersive and enjoyable experiences.
+Currently, I'm delving deeper into Kubernetes for container orchestration and exploring advanced CI/CD practices with Gitops using ArgoCD. I'm also focusing on improving scalability and reliability through infrastructure as code (IaC) principles using Terraform.
 
 <h2>Get in Touch</h2>
-I’m always open to connecting with fellow developers, gamers, and enthusiasts. Whether it’s to discuss a project, share ideas, or collaborate, feel free to reach out!
+I'm passionate about collaborating on DevOps initiatives, discussing best practices, and exploring innovative solutions to complex challenges. Whether you're interested in discussing infrastructure automation, CI/CD strategies, or just want to connect over shared interests, feel free to reach out!
 
 - 📫 How to reach me: yahya23mohamed@gmail.com
 
